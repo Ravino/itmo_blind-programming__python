@@ -39,3 +39,96 @@
 * Выполнение лабораторных работ
 * Выполнение лабораторных работ со звёздочкой
 * Реализация проекта и его защита
+
+
+# Результаты
+## Даниил З.
+- [x] lab№1
+- [x] labWithStar№1
+- [] Project
+
+## Дмитрий В.
+- [x] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Дмитрий К.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Алексей Л.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Алексей Ф.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Александр Д.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Елена М.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Наталья Кр.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Наталья Ку.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Данил Л.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Андрей К.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Саина.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Сергей.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Вячеслав.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+## Ольга П.
+- [] lab№1
+- [] labWithStar№1
+- [] Project
+
+
+
