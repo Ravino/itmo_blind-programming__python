@@ -45,90 +45,90 @@
 ## Даниил З.
 - [x] lab№1
 - [x] labWithStar№1
-- [] Project
+- [ ] Project
 
 ## Дмитрий В.
 - [x] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Дмитрий К.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Алексей Л.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Алексей Ф.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Александр Д.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Елена М.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Наталья Кр.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [x] lab№1
+- [x] labWithStar№1
+- [ ] Project
 
 
 ## Наталья Ку.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Данил Л.
 - [x] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Андрей К.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Саина.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
-## Сергей.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+## Сергей Т.
+- [x] lab№1
+- [x] labWithStar№1
+- [ ] Project
 
 
 ## Вячеслав.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 ## Ольга П.
-- [] lab№1
-- [] labWithStar№1
-- [] Project
+- [ ] lab№1
+- [ ] labWithStar№1
+- [ ] Project
 
 
 
