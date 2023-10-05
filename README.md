@@ -127,8 +127,8 @@
 - [ ] Project
 
 
-## Вячеслав.
-- [ ] lab№1
+## Вячеслав Г.
+- [x] lab№1
 - [ ] labWithStar№1
 - [ ] Project
 
