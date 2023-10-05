@@ -68,7 +68,7 @@
 
 
 ## Алексей Л.
-- [ ] lab№1
+- [x] lab№1
 - [ ] labWithStar№1
 - [ ] Project
 
