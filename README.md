@@ -1,6 +1,14 @@
 # python
 
 
+# Содержание
+* [Главная](https://github.com/Ravino/itmo_blind-programming__python/blob/main/README.md)
+* [Полезные материалы](https://github.com/Ravino/itmo_blind-programming__python/blob/main/sources.md)
+* [Лабораторная №1](https://github.com/Ravino/itmo_blind-programming__python/blob/main/lab1.md)
+* [Лабораторная под звёздочкой](https://github.com/Ravino/itmo_blind-programming__python/blob/main/labWithStar1.md)
+* [Список проектов](https://github.com/Ravino/itmo_blind-programming__python/blob/main/projectStudents.md)
+
+
 ## Описание
 Привет, студент!\
 В данном репозитории тебя будут ждать лабораторные работы по языку программирования python с их описанием. \
