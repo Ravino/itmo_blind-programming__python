@@ -50,21 +50,32 @@
 
 
 # Результаты
+Обрати внимание на флаги, если они отмечены, значит работа проверена и принята полностью.
+
+
 ## Даниил З.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [x] labWithStar№1
 - [x] Project
+
 
 ## Дмитрий В.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [x] labWithStar№1
 - [ ] Project
 
 
 ## Дмитрий К.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
@@ -72,36 +83,53 @@
 ## Алексей Л.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Алексей Ф.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Александр Д.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Елена М.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Наталья Кр.
 - [x] lab№1
+- [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [x] labWithStar№1
 - [ ] Project
 
 
 ## Наталья Ку.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
@@ -109,18 +137,26 @@
 ## Данил Л.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Андрей К.
 - [x] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Саина.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
@@ -128,6 +164,8 @@
 ## Сергей Т.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [x] labWithStar№1
 - [ ] Project
 
@@ -135,14 +173,17 @@
 ## Вячеслав Г.
 - [x] lab№1
 - [x] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Ольга П.
 - [ ] lab№1
+- [ ] lab№2
+- [ ] lab№3
+- [ ] lab№4
 - [ ] labWithStar№1
 - [ ] Project
-
-
 
