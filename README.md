@@ -5,7 +5,11 @@
 * [Главная](https://github.com/Ravino/itmo_blind-programming__python/blob/main/README.md)
 * [Полезные материалы](https://github.com/Ravino/itmo_blind-programming__python/blob/main/sources.md)
 * [Лабораторная №1](https://github.com/Ravino/itmo_blind-programming__python/blob/main/lab1.md)
-* [Лабораторная под звёздочкой](https://github.com/Ravino/itmo_blind-programming__python/blob/main/labWithStar1.md)
+* [Лабораторная №2](https://github.com/Ravino/itmo_blind-programming__python/blob/main/lab2.md)
+* [Лабораторная №3](https://github.com/Ravino/itmo_blind-programming__python/blob/main/lab3.md)
+* [Лабораторная №4](https://github.com/Ravino/itmo_blind-programming__python/blob/main/lab4.md)
+* [Лабораторная под звёздочкой №1](https://github.com/Ravino/itmo_blind-programming__python/blob/main/labWithStar1.md)
+* [Лабораторная под звёздочкой №2](https://github.com/Ravino/itmo_blind-programming__python/blob/main/labWithStar2.md)
 * [Список проектов](https://github.com/Ravino/itmo_blind-programming__python/blob/main/projectStudents.md)
 
 
