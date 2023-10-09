@@ -52,12 +52,14 @@
 # Результаты
 ## Даниил З.
 - [x] lab№1
+- [x] lab№2
 - [x] labWithStar№1
-- [ ] Project
+- [x] Project
 
 ## Дмитрий В.
 - [x] lab№1
-- [ ] labWithStar№1
+- [x] lab№2
+- [x] labWithStar№1
 - [ ] Project
 
 
@@ -69,6 +71,7 @@
 
 ## Алексей Л.
 - [x] lab№1
+- [x] lab№2
 - [ ] labWithStar№1
 - [ ] Project
 
@@ -105,12 +108,13 @@
 
 ## Данил Л.
 - [x] lab№1
+- [x] lab№2
 - [ ] labWithStar№1
 - [ ] Project
 
 
 ## Андрей К.
-- [ ] lab№1
+- [x] lab№1
 - [ ] labWithStar№1
 - [ ] Project
 
@@ -123,12 +127,14 @@
 
 ## Сергей Т.
 - [x] lab№1
+- [x] lab№2
 - [x] labWithStar№1
 - [ ] Project
 
 
 ## Вячеслав Г.
 - [x] lab№1
+- [x] lab№2
 - [ ] labWithStar№1
 - [ ] Project
 
