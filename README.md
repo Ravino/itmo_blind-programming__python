@@ -141,7 +141,7 @@
 ## Данил Л.
 - [x] lab№1
 - [x] lab№2
-- [ ] lab№3
+- [x] lab№3
 - [ ] lab№4
 - [ ] labWithStar№1
 - [x] Project
